@@ -61,3 +61,6 @@
 * 线性化
 * 模态分析
 * 飞行仿真
+
+## 记录修改
+* 过载计算模块cal N，重复使用alpha计算，Aerodynamic Coefficients to Forces and Moments 已经做了一次转换
